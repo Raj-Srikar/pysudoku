@@ -11,9 +11,9 @@ setuptools.setup(
     description="Solves Sudoku within seconds.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Raj-Srikar/Sudoku-Solver",
+    url="https://github.com/Raj-Srikar/solvesudoku",
     project_urls={
-        "Documentation": "https://github.com/Raj-Srikar/Sudoku-Solver/wiki/SudokuFuncs",
+        "Documentation": "https://github.com/Raj-Srikar/solvesudoku/wiki#documentation",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
