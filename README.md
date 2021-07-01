@@ -45,5 +45,5 @@ Overall, the format of the Sudoku should be as follows:
 
 ## Source Code and Documentation
 
-- [Source Code](https://github.com/Raj-Srikar/solvesudoku/wiki#documentation)
-- [Documentation](https://github.com/Raj-Srikar/solvesudoku/blob/master/src/solvesudoku/__init__.py)
+- [Source Code](https://github.com/Raj-Srikar/solvesudoku/blob/master/src/solvesudoku/__init__.py)
+- [Documentation](https://github.com/Raj-Srikar/solvesudoku/wiki#documentation)
