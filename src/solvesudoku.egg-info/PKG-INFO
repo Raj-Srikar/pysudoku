@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: solvesudoku
-Version: 0.0.2
+Version: 0.0.3
 Summary: Solves Sudoku within seconds.
 Home-page: https://github.com/Raj-Srikar/solvesudoku
 Author: Raj Srikar
@@ -62,7 +62,7 @@ Overall, the format of the Sudoku should be as follows:
 
 ## Source Code and Documentation
 
-- [Source Code](https://github.com/Raj-Srikar/Sudoku-Solver/blob/main/SudokuFuncs.py)
-- [Documentation](https://github.com/Raj-Srikar/Sudoku-Solver/wiki/SudokuFuncs)
+- [Source Code](https://github.com/Raj-Srikar/solvesudoku/blob/master/src/solvesudoku/__init__.py)
+- [Documentation](https://github.com/Raj-Srikar/solvesudoku/wiki#documentation)
 
 
