@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.py
-src/pysudoku/__init__.py
-src/pysudoku.egg-info/PKG-INFO
-src/pysudoku.egg-info/SOURCES.txt
-src/pysudoku.egg-info/dependency_links.txt
-src/pysudoku.egg-info/top_level.txt
