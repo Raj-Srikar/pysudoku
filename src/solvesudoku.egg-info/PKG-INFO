@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: solvesudoku
-Version: 0.0.1
+Version: 0.0.2
 Summary: Solves Sudoku within seconds.
-Home-page: https://github.com/Raj-Srikar/Sudoku-Solver
+Home-page: https://github.com/Raj-Srikar/solvesudoku
 Author: Raj Srikar
 Author-email: rajsrikar.d161@gmail.com
 License: UNKNOWN
-Project-URL: Documentation, https://github.com/Raj-Srikar/Sudoku-Solver/wiki/SudokuFuncs
+Project-URL: Documentation, https://github.com/Raj-Srikar/solvesudoku/wiki#documentation
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
